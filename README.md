@@ -5,6 +5,8 @@
 
 - 🌱 I’m currently learning **HTML, CSS, SASS, Javascript, Nodejs, SQL**
 
+- 📝 I regularly write articles on [Medium](https://medium.com/@Kelly_CHI)
+
 - 📫 Reach me at **chihsinting@gmail.com**
 
 <h3 align="left">Languages and Tools:</h3>
