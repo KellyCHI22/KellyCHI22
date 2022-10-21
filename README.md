@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [Frontend Mentor](https://github.com/KellyCHI22/frontend-mentor-solutions) challenges and [JavaScript30](https://github.com/KellyCHI22/JavaScript30)!
 
-- 🌱 I’m currently learning **HTML, CSS, SASS, Javascript, Nodejs, SQL**
+- 🌱 I’m currently learning **HTML, CSS, SASS, Javascript, Nodejs, E**
 
 - 📝 I regularly write articles on [Medium](https://medium.com/@Kelly_CHI)
 
