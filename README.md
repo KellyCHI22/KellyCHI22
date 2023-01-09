@@ -5,7 +5,9 @@
 ![capybara](https://media.tenor.com/K3uxrqffdCAAAAAC/capybara-orange.gif)
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kellychi22&label=Profile%20views&color=0e75b6&style=flat" alt="kellychi22" /> </p>
 
-- 🔭 I’m currently working on [Frontend Mentor](https://github.com/KellyCHI22/frontend-mentor-solutions) challenges and [JavaScript30](https://github.com/KellyCHI22/JavaScript30)!
+- 🔭 I’m currently working on [Frontend Mentor](https://github.com/KellyCHI22/frontend-mentor-solutions) challenges
+
+- 🌟 I just completed my [JavaScript30](https://github.com/KellyCHI22/JavaScript30) challenge, you can see them [here](https://kellychi22.github.io/JavaScript30/)!
 
 - 🌱 I’m currently learning **HTML, CSS, SASS, Javascript, Nodejs, Express**
 
