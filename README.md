@@ -9,7 +9,7 @@
 
 - 🌟 I just completed my [JavaScript30](https://github.com/KellyCHI22/JavaScript30) challenge, you can see them [here](https://kellychi22.github.io/JavaScript30/)!
 
-- 🌱 I’m currently learning **HTML, CSS, SASS, Javascript, Nodejs, Express**
+- 🌱 I’m currently learning **React, Tailwind CSS, Express, Webpack, MongoDB**
 
 - 📝 I regularly write articles on [Medium](https://medium.com/@Kelly_CHI)
 
