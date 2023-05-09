@@ -5,13 +5,17 @@
 ![capybara](https://media.tenor.com/K3uxrqffdCAAAAAC/capybara-orange.gif)
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kellychi22&label=Profile%20views&color=0e75b6&style=flat" alt="kellychi22" /> </p>
 
-- 🔭 I’m currently working on [Frontend Mentor](https://github.com/KellyCHI22/frontend-mentor-solutions) challenges
+- 🔭 I’m currently working on my personal project [HowTo](https://github.com/KellyCHI22/HowTo), a place where you can create and share your wildest how-to ideas!
 
-- 🌟 I just completed my [JavaScript30](https://github.com/KellyCHI22/JavaScript30) challenge, you can see them [here](https://kellychi22.github.io/JavaScript30/)!
+- 🎨 I've completed more than 15+ [Frontend Mentor](https://github.com/KellyCHI22/frontend-mentor-solutions) challenges
+
+- 🌟 My [JavaScript30](https://github.com/KellyCHI22/JavaScript30) challenge is completed, you can see them live [here](https://kellychi22.github.io/JavaScript30/)!
 
 - 🌱 I’m currently learning **React, Redux, Tailwind CSS, TypeScript, Jest, React Testing Libraries**
 
 - 📝 I regularly write articles on [Medium](https://medium.com/@Kelly_CHI)
+
+- 🎞️ As a cinéphile, I've watched more than 1600+ films in my life. My favorite film is Mirror (1975) by Andrei Tarkovsky. 
 
 - 📫 Reach me at **chihsinting@gmail.com**
 
