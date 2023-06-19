@@ -1,5 +1,5 @@
 <h1 align="left">Hi 👋, I'm Kelly CHI!</h1> 
-<h3 align="left">I'm a passionate frontend developer with a keen eye for design and a love for building beautiful and intuitive user interfaces. ✨</h3>
+<h3 align="left">I'm a passionate frontend developer with a love for building beautiful and intuitive web apps. ✨</h3>
 
 
 ![capybara](https://media.tenor.com/K3uxrqffdCAAAAAC/capybara-orange.gif)
