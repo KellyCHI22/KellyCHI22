@@ -1,23 +1,26 @@
 <h1 align="left">Hi 👋, I'm Kelly CHI!</h1> 
-<h3 align="left">I'm a passionate frontend developer with a love for building beautiful and intuitive web apps. ✨</h3>
+<h3 align="left">I am a front-end developer with a love for building beautiful and intuitive web apps. ✨</h3>
 
 
 ![capybara](https://media.tenor.com/K3uxrqffdCAAAAAC/capybara-orange.gif)
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kellychi22&label=Profile%20views&color=0e75b6&style=flat" alt="kellychi22" /> </p>
 
-- 🔭 I’m currently working on my personal project [HowTo](https://github.com/KellyCHI22/HowTo), a place where you can create and share your wildest how-to ideas!
+- 🖼️ You can check out my personal portfolio [here](https://kellychi-dev.netlify.app/) (●'◡'●)
 
-- 🎨 I've completed more than 15+ [Frontend Mentor](https://github.com/KellyCHI22/frontend-mentor-solutions) challenges
-
-- 🌟 My [JavaScript30](https://github.com/KellyCHI22/JavaScript30) challenge is completed, you can see them live [here](https://kellychi22.github.io/JavaScript30/)!
-
-- 🌱 I’m currently learning **React, Redux, Tailwind CSS, TypeScript, Jest, React Testing Libraries**
+- 🌱 I’m currently learning **TypeScript, Jest, React Testing Libraries, and some backend stuff**
 
 - 📝 I regularly write articles on [Medium](https://medium.com/@Kelly_CHI)
 
 - 🎞️ As a cinéphile, I've watched more than 1600+ films in my life. My favorite film is Mirror (1975) by Andrei Tarkovsky. 
 
 - 📫 Reach me at **chihsinting@gmail.com**
+
+## 📂 Projects
+
+- [HowTo](https://howto-creative.web.app/) - A place where you can create and share your wildest how-to ideas! 🤯 → [Repo](https://github.com/KellyCHI22/HowTo)
+- [Alpha Twitter](https://weilocus.github.io/twitter/) - A collaborative simple Twitter clone with FE, BE trainees at Alpha Camp → [Repo](https://github.com/KellyCHI22/twitter)
+- [JavaScript 30](https://kellychi22.github.io/JavaScript30/) - A collection of all my [JavaScript30](https://javascript30.com/) challenges 🌟 → [Repo](https://github.com/KellyCHI22/JavaScript30)
+- [Frontend Mentor](https://github.com/KellyCHI22/frontend-mentor-solutions) - I've completed more than 15+ [Frontend Mentor](https://www.frontendmentor.io/) challenges 🎨
 
 ## ⛏ Technologies & Tools
 
