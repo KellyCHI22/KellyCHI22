@@ -1,5 +1,5 @@
 <h1 align="left">Hi 👋, I'm Kelly CHI!</h1> 
-<h3 align="left">I am a front-end developer with a love for building beautiful and intuitive web apps. ✨</h3>
+<p align="left">I am a front-end developer with a love for building beautiful and intuitive web apps. ✨</p>
 
 
 ![capybara](https://media.tenor.com/K3uxrqffdCAAAAAC/capybara-orange.gif)
@@ -17,6 +17,7 @@
 
 ## 📂 Projects
 
+- [Issuezy](https://issuezy.netlify.app) - A full-stack issue management app to keep your team organized 🗂️ → [Repo](https://github.com/KellyCHI22/Issuezy)
 - [HowTo](https://howto-creative.web.app/) - A place where you can create and share your wildest how-to ideas! 🤯 → [Repo](https://github.com/KellyCHI22/HowTo)
 - [Alpha Twitter](https://weilocus.github.io/twitter/) - A collaborative simple Twitter clone with FE, BE trainees at Alpha Camp → [Repo](https://github.com/KellyCHI22/twitter)
 - [JavaScript 30](https://kellychi22.github.io/JavaScript30/) - A collection of all my [JavaScript30](https://javascript30.com/) challenges 🌟 → [Repo](https://github.com/KellyCHI22/JavaScript30)
@@ -35,9 +36,11 @@
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![StyledComponents](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white)
-![Gulp](https://img.shields.io/badge/GULP-%23CF4647.svg?style=for-the-badge&logo=gulp&logoColor=white)
 ![Nodejs](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![Sequelize](https://img.shields.io/badge/sequelize-323330?style=for-the-badge&logo=sequelize&logoColor=blue)
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySql](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
