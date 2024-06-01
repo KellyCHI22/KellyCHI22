@@ -7,16 +7,17 @@
 
 - 🖼️ You can check out my personal portfolio [here](https://kellychi-dev.netlify.app/) (●'◡'●)
 
-- 🌱 I’m currently learning **TypeScript, Jest, React Testing Libraries, and some backend stuff**
+- 🌱 I’m currently learning **computer networking, data structures and algorithms**
 
-- 📝 I regularly write articles on [Medium](https://medium.com/@Kelly_CHI)
+- 📝 I write articles on my personal [Medium](https://medium.com/@Kelly_CHI), as well as articles on web accessibility at [a11yvillage](https://medium.com/@a11yvillage)
 
-- 🎞️ As a cinéphile, I've watched more than 1600+ films in my life. My favorite film is Mirror (1975) by Andrei Tarkovsky. 
+- 🎞️ As a cinéphile, I've watched more than 1600+ films in my life. My favorite film is Mirror (1975) by Andrei Tarkovsky
 
 - 📫 Reach me at **chihsinting@gmail.com**
 
 ## 📂 Projects
 
+- [Accessible Form in React](https://accessible-form-react.netlify.app/) - Basic concepts on form accessibility with live example in React → [Repo](https://github.com/KellyCHI22/accessible-form-react)
 - [Issuezy](https://issuezy.netlify.app) - A full-stack issue management app to keep your team organized 🗂️ → [Repo](https://github.com/KellyCHI22/Issuezy)
 - [HowTo](https://howto-creative.web.app/) - A place where you can create and share your wildest how-to ideas! 🤯 → [Repo](https://github.com/KellyCHI22/HowTo)
 - [Alpha Twitter](https://weilocus.github.io/twitter/) - A collaborative simple Twitter clone with FE, BE trainees at Alpha Camp → [Repo](https://github.com/KellyCHI22/twitter)
